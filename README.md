@@ -196,16 +196,15 @@ From the osTicket-Installation-Files folder:
 ![osTicket 26](https://github.com/user-attachments/assets/3586ca7a-023a-4eb7-af83-abb1d8028763)
 
 
-![osTicket 27](https://github.com/user-attachments/assets/12c811f8-ba2a-4d63-90a6-5a8b9349fb01)
-
 
 <h3>12.) Complete osTicket Setup</h3>
 
 - In the browser, continue the osTicket setup:
   - Set Helpdesk Name
-  - Set Default email 
+  - Set Default email
+ 
+  ![osTicket 27](https://github.com/user-attachments/assets/12c811f8-ba2a-4d63-90a6-5a8b9349fb01)  
 
-![osTicket 28](https://github.com/user-attachments/assets/02549f6c-fd57-4a58-9333-76f98a256387)
 
 
 <h3>13.) Install HeidiSQL and Configure Database</h3>
@@ -215,6 +214,8 @@ From the osTicket-Installation-Files folder:
   - Create a new session: Username: root / Password: root
   - Connect to the session
   - Create a database named osTicket
+ 
+![osTicket 28](https://github.com/user-attachments/assets/02549f6c-fd57-4a58-9333-76f98a256387)    
 
 ![osTicket 29](https://github.com/user-attachments/assets/f39d57e1-4263-445d-9fd1-15f6fbdbeeae)
 
